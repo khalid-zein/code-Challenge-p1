@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.test{
+    height: 40vh;
+    width: 45%;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px #000, 0px 0px 15px #276346;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 3%;
+    position: relative;
+}
+.test img{
+    width: 40%;
+}
+.test h2{
+    font-size: 12px;
+    font-family: 'Rubik Distressed', cursive;
+    font-weight: 100;
+    margin-top: 3%;
+}
+.test form input{
+    margin-left: 14%;
+    margin-top: 2%;
+    border-radius: 5px;
+    border-color: green;
+    height: 30px;
+    width: 70%;
+}
+.test form option{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 3%;
+    color: green;
+}
+.test form button{
+    width: 30%;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 32%;
+    margin-top: 3%;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+.test p{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+span{
+    color: red;
+    margin-left: 2%;
+    border: 3px solid black;
+    padding: 1%;
+}
