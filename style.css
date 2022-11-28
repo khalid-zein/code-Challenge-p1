@@ -45,6 +45,7 @@
     background-color: green;
     color: white;
     font-size: 18px;
+    border: none;
 }
 .test p{
     font-size: 30px;
@@ -57,4 +58,51 @@ span{
     margin-left: 2%;
     border: 3px solid black;
     padding: 1%;
+}
+
+/* Code Challenge 2 */
+#hover .test2{
+    height: 40vh;
+    width: 20%;
+    background-color: rgb(247, 243, 243);
+    margin: auto;
+    margin-top: 3%;
+    position: relative;
+}
+#hover :hover{
+    box-shadow: 0px 0px 10px #000;
+}
+#hover .test2 img{
+    height: 40%;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+#hover .test2 form input{
+    border: 2px solid green;
+    border-radius: 8px;
+    width: 70%;
+    height: 25px;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+#hover .test2 form button{
+    width: 30%;
+    height: 25px;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-top: 5%;
+    border: none;
+    background-color: green;
+}
+#hover .test2 p{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-top: 3%;
+    margin-left: 2%;
+    text-align: center;
+}
+#hover .test2 #detector{
+    font-family: sans-serif;
+    color: red;
 }
