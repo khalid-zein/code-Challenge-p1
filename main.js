@@ -135,6 +135,7 @@ calculation.addEventListener("click", function (yow){
     const hashim = document.getElementById("hashim");
     const mama = document.getElementById("mama");
     const dada = document.getElementById("dada");
+    const kaka = document.getElementById("kaka");
     
     console.log(netSalary);
     net.innerHTML = "Net Salary: " + netSalary;
@@ -144,6 +145,7 @@ calculation.addEventListener("click", function (yow){
     husna.innerHTML = "NSSF: " + nssf;
     hashim.innerHTML = "NHIF: " + nhif();
     mama.innerHTML = "KRA: " + kra;
+    kaka.innerHTML = "RELIEF";
     dada.innerHTML = "RELIEF: " + relief;
 
     // if (basicSalary <= 24000){
