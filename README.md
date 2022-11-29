@@ -9,7 +9,7 @@ This project is a web application that calculate user grades after inputing thei
 
 ## Live Page
 
-https://khalid-zein.github.io/Delani-studio/
+https://khalid-zein.github.io/code-Challenge-p1/
 
 ## installation
 
