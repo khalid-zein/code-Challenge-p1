@@ -1,4 +1,4 @@
-# code-Challenge-p1
+# Code-Challenge-p1
 ## Author:
 
 [Khalid Zein](https:yueyyt)
@@ -9,15 +9,15 @@ This project is a web application that calculate user grades after inputing thei
 
 ## Live Page
 
-https://khalid-zein.github.io/code-Challenge-p1/
+https://khalid-zein.github.io/Delani-studio/
 
 ## installation
 
 1. Open terminal(Ctrl+Alt+T)
 
-2. git clone ```git@github.com:khalid-zein/code-Challenge-p1.git```
+2. git clone ```git@github.com:khalid-zein/Delani-studio.git```
 
-3. cd to code-Challenge-p1
+3. cd Delani-studio
 
 4. code . or atom . depending on the text editor of your choice.
 
@@ -25,15 +25,16 @@ https://khalid-zein.github.io/code-Challenge-p1/
 
 1. [HTML](https://)
 2. [CSS](https://)
-3. [Javascript](https://)
+3. [Bootstrap](https://)
+4. [Javascript](https://)
 
 ## BDD
 
-|Behaviour                                   | Input                                 |                                     output|
-| -------------------------------------------|-------------------------------------- | ----------------------------------------- |
-| Enter your grade/speed/basic salary        |  80                                   |    A                                      |
-| Enter yor Speed                            |  40/80/180                            |    OK/2 demerits points/license suspended |
-| Enter your basic salary                    |  80,000                               |    64,000                                 |
+|Behaviour             | Input                                 |                                     output|
+| ----------------------- | ------------------------------------- | ----------------------------------------- |
+| Enter your name         |  Khalid Zein                          |                                           |
+| Enter yor Email Addres  |  khalidzein@gmail.com                 |                                           |
+| Enter your message      |  I would like to collaborate with you | Pop up"Khalid zein, we have received your                                                                           message.Thank you for reaching out to us."|
 
 
 ## Contact
