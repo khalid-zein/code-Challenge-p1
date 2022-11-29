@@ -58,3 +58,10 @@ speed.addEventListener("click", function (e){
 
     formReseting();
 });
+
+const calculation = document.getElementById("calculation");
+
+calculation.addEventListener("click", function (e){
+    e.preventDefault();
+    
+});
